@@ -1,0 +1,10 @@
+- recognize, input, image and predict a single label or multi label for that image as output using ml techniques
+- image classification using dl pretrained models
+- dl architectures such as ResNet and AlexNet
+- data preprocessing using transformations
+- transfer learning
+- dataset, data augmentation, dataloaders, and training function
+- Deep ResNet model finetuning
+- HyperParameters optimization for ResNet model
+- Deep ResNet as fixed feature extractor
+- models optimization, training and result visualization
